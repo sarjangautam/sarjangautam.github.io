@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sarjangautam/Profile/static/css/main.584f321a.chunk.css",
+    "main.js": "/sarjangautam/Profile/static/js/main.e1f56f5e.chunk.js",
+    "main.js.map": "/sarjangautam/Profile/static/js/main.e1f56f5e.chunk.js.map",
+    "runtime-main.js": "/sarjangautam/Profile/static/js/runtime-main.a7ed7b97.js",
+    "runtime-main.js.map": "/sarjangautam/Profile/static/js/runtime-main.a7ed7b97.js.map",
+    "static/js/2.628ab0fb.chunk.js": "/sarjangautam/Profile/static/js/2.628ab0fb.chunk.js",
+    "static/js/2.628ab0fb.chunk.js.map": "/sarjangautam/Profile/static/js/2.628ab0fb.chunk.js.map",
+    "index.html": "/sarjangautam/Profile/index.html",
+    "precache-manifest.5f26b18cea8ef035e69144f52790735d.js": "/sarjangautam/Profile/precache-manifest.5f26b18cea8ef035e69144f52790735d.js",
+    "service-worker.js": "/sarjangautam/Profile/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/sarjangautam/Profile/static/css/main.584f321a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7ed7b97.js",
+    "static/js/2.628ab0fb.chunk.js",
+    "static/css/main.584f321a.chunk.css",
+    "static/js/main.e1f56f5e.chunk.js"
+  ]
+}
